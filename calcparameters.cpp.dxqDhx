@@ -1,0 +1,20 @@
+#include "calcparameters.h"
+#include "ui_calcparameters.h"
+
+CalcParameters::CalcParameters(QWidget *parent) :
+  QDialog(parent),
+  ui(new Ui::CalcParameters)
+{
+  ui->setupUi(this);
+}
+
+CalcParameters::~CalcParameters()
+{
+  delete ui;
+}
+
+
+void CalcParameters::on_Button_Backward_clicked()
+{
+    QWidget::close();
+}

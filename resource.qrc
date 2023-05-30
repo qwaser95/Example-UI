@@ -1,0 +1,84 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>Icons/ARM№2 Calc.ico</file>
+        <file>Icons/ARM№2.ico</file>
+        <file>Icons/Directory Close Load.ico</file>
+        <file>Icons/Thumbs.db</file>
+        <file>Icons/TipiRESRedaktor.ico</file>
+        <file>Icons/ButtonIcons/Search.ico</file>
+        <file>Icons/ButtonIcons/Add.bmp</file>
+        <file>Icons/ButtonIcons/Add.ico</file>
+        <file>Icons/ButtonIcons/Arrow Left.bmp</file>
+        <file>Icons/ButtonIcons/Arrow Left.ico</file>
+        <file>Icons/ButtonIcons/Arrow Right.bmp</file>
+        <file>Icons/ButtonIcons/Arrow Right.ico</file>
+        <file>Icons/ButtonIcons/Azimut Clear.ico</file>
+        <file>Icons/ButtonIcons/Cancel.bmp</file>
+        <file>Icons/ButtonIcons/Cancel.ico</file>
+        <file>Icons/ButtonIcons/ChTP.bmp</file>
+        <file>Icons/ButtonIcons/ChTP.ico</file>
+        <file>Icons/ButtonIcons/Compass Complete.bmp</file>
+        <file>Icons/ButtonIcons/Compass Complete.ico</file>
+        <file>Icons/ButtonIcons/Compass Down.bmp</file>
+        <file>Icons/ButtonIcons/Compass Down.ico</file>
+        <file>Icons/ButtonIcons/Compass.bmp</file>
+        <file>Icons/ButtonIcons/Compass.ico</file>
+        <file>Icons/ButtonIcons/DataBase Information.bmp</file>
+        <file>Icons/ButtonIcons/DataBase Information.ico</file>
+        <file>Icons/ButtonIcons/DataBase Load.bmp</file>
+        <file>Icons/ButtonIcons/DataBase Load.ico</file>
+        <file>Icons/ButtonIcons/DataBase Refresh.bmp</file>
+        <file>Icons/ButtonIcons/DataBase Refresh.ico</file>
+        <file>Icons/ButtonIcons/Delete All.bmp</file>
+        <file>Icons/ButtonIcons/Delete All.ico</file>
+        <file>Icons/ButtonIcons/Delete.bmp</file>
+        <file>Icons/ButtonIcons/Delete.ico</file>
+        <file>Icons/ButtonIcons/Dowble Row.bmp</file>
+        <file>Icons/ButtonIcons/Dowble Row.ico</file>
+        <file>Icons/ButtonIcons/File Add From.bmp</file>
+        <file>Icons/ButtonIcons/File Add From.ico</file>
+        <file>Icons/ButtonIcons/File Save To.bmp</file>
+        <file>Icons/ButtonIcons/File Save To.ico</file>
+        <file>Icons/ButtonIcons/ImageFile Save TSh.bmp</file>
+        <file>Icons/ButtonIcons/ImageFile Save TSh.ico</file>
+        <file>Icons/ButtonIcons/Map Close.bmp</file>
+        <file>Icons/ButtonIcons/Map Close.ico</file>
+        <file>Icons/ButtonIcons/Map View.bmp</file>
+        <file>Icons/ButtonIcons/Map View.ico</file>
+        <file>Icons/ButtonIcons/RaschTochka.bmp</file>
+        <file>Icons/ButtonIcons/RaschTochka.ico</file>
+        <file>Icons/ButtonIcons/RES Configuration.bmp</file>
+        <file>Icons/ButtonIcons/RES Configuration.ico</file>
+        <file>Icons/ButtonIcons/RES Edit.bmp</file>
+        <file>Icons/ButtonIcons/RES Edit.ico</file>
+        <file>Icons/ButtonIcons/RES.bmp</file>
+        <file>Icons/ButtonIcons/RES.ico</file>
+        <file>Icons/ButtonIcons/Round Left.bmp</file>
+        <file>Icons/ButtonIcons/Round Left.ico</file>
+        <file>Icons/ButtonIcons/Round Right.bmp</file>
+        <file>Icons/ButtonIcons/Round Right.ico</file>
+        <file>Icons/ButtonIcons/Search.bmp</file>
+        <file>Icons/ButtonIcons/Select All.bmp</file>
+        <file>Icons/ButtonIcons/Select All.ico</file>
+        <file>Icons/ButtonIcons/Threshold Default All.bmp</file>
+        <file>Icons/ButtonIcons/Threshold Default All.ico</file>
+        <file>Icons/ButtonIcons/Up.bmp</file>
+        <file>Icons/ButtonIcons/Up.ico</file>
+        <file>Icons/ButtonIcons/Zoom Area.bmp</file>
+        <file>Icons/ButtonIcons/Zoom Area.ico</file>
+        <file>Icons/ButtonIcons/Zoom Is.bmp</file>
+        <file>Icons/ButtonIcons/Zoom Is.ico</file>
+        <file>Icons/ButtonIcons/Zoom Minus.bmp</file>
+        <file>Icons/ButtonIcons/Zoom Minus.ico</file>
+        <file>Icons/ButtonIcons/Load for One.ico</file>
+        <file>Icons/ButtonIcons/Load for All.ico</file>
+        <file>Icons/ButtonIcons/RES Load.ico</file>
+        <file>Icons/ButtonIcons/Accept2.bmp</file>
+        <file>Icons/ButtonIcons/Azimut Calc.ico</file>
+        <file>Icons/ButtonIcons/Record 1 to 1.ico</file>
+        <file>Icons/ButtonIcons/Complete.ico</file>
+        <file>Icons/ButtonIcons/Zoom Plus.ico</file>
+        <file>Icons/ButtonIcons/Height Width Information.ico</file>
+        <file>Icons/ButtonIcons/Directory Close Load.ico</file>
+    </qresource>
+</RCC>

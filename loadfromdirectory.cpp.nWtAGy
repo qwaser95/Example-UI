@@ -1,0 +1,25 @@
+#include "loadfromdirectory.h"
+#include "ui_loadfromdirectory.h"
+#include <QTreeView>
+#include <qfilesystemmodel.h>
+
+LoadFromDirectory::LoadFromDirectory(QWidget *parent) :
+  QDialog(parent),
+  ui(new Ui::LoadFromDirectory)
+{
+  ui->setupUi(this);
+
+}
+
+LoadFromDirectory::~LoadFromDirectory()
+{
+  delete ui;
+}
+
+void LoadFromDirectory::on_pushButton_clicked()
+{
+    QFileSystemModel *model = new QFileSystemModel;
+    model->setRootPath(QDir::currentPath());
+    QTreeView *tree = new QTreeView();
+    tree->setModel(model);
+}
